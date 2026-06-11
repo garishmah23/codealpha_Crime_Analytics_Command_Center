@@ -135,18 +135,26 @@ python main.py
 
 1. Launch the application.
 2. Click **Load Dataset**. 
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-11 140316.png
+
+<img width="1917" height="1022" alt="Screenshot 2026-06-11 140316" src="https://github.com/user-attachments/assets/f6100d02-8696-476b-92bc-2a594be8350b" />
+
 
 3. Select a CSV crime dataset.
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-11 135549.png
+
+<img width="1918" height="1023" alt="Screenshot 2026-06-11 135549" src="https://github.com/user-attachments/assets/1493ae82-3fb0-4eae-ab05-8d2a3b17bae8" />
+
 
 4. View data in the dashboard table.
 
 5. Click **Show Crime Trend** to view yearly crime analysis.
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-11 140403.png
+
+<img width="1918" height="1023" alt="Screenshot 2026-06-11 140403" src="https://github.com/user-attachments/assets/70010089-fc00-45cd-80b7-876fe277fc3f" />
+
 
 6. Click **Show Crime Types** to analyze crime category distribution.
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-11 140344.png
+
+<img width="1918" height="1021" alt="Screenshot 2026-06-11 140344" src="https://github.com/user-attachments/assets/087da432-a9a2-4a61-a3ce-2eb4337a200f" />
+
 
 
 ---
@@ -154,7 +162,9 @@ c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-11 140344.png
 ## 📈 Sample Insights
 +
 * Theft is the most frequently reported crime. 
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-11 135524.png
+
+<img width="1918" height="1020" alt="Screenshot 2026-06-11 135524" src="https://github.com/user-attachments/assets/bab15464-838b-4aa5-9f5f-febbcf01f772" />
+
 
 * Crime rates increased significantly after 2021.
 * Cyber Crime shows rapid growth in recent years.
